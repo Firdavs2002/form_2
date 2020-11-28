@@ -27,4 +27,4 @@ d) можно долго тестить, добавить фичу общени�
 ссылка: https://jsonplaceholder.typicode.com/
 
 
-    ##Все исходники vue-cli находятся в архиве - [public](https://github.com/Firdavs2002/form_2/blob/master/public.zip).
+##Все исходники vue-cli находятся в архиве - [public](https://github.com/Firdavs2002/form_2/blob/master/public.zip).
