@@ -1,10 +1,10 @@
-    comands:
+comands:
 
-    ```npm install -g serve
+    npm install -g serve
     
     git clone https://github.com/Firdavs2002/form_2.git
     
-    serve -s dist```
+    serve -s form_2
 
 - a) было расмотренно много различных вариантов и каждый из них был по своему интересен, перебрав
 
@@ -29,4 +29,4 @@
 ссылка: https://jsonplaceholder.typicode.com/
 
 
-## Все исходники vue-cli находятся в архиве - [public](https://github.com/Firdavs2002/form_2/blob/master/public.zip).
+## > Все исходники vue-cli находятся в архиве - [public](https://github.com/Firdavs2002/form_2/blob/master/public.zip).
